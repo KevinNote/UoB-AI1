@@ -1,9 +1,6 @@
 # Week 1: Module Introduction
 
-<center>
-<span>04/02/2022</span>
-<a style="text-decoration:none; color: black;" href="https://github.com/KevinZonda">KevinZonda</a>
-</center>
+04/02/2022 [KevinZonda](https://github.com/KevinZonda)
 
 ## For Solving Optimisation Problems
 

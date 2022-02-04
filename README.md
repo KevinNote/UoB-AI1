@@ -15,3 +15,4 @@
 - Week 1
   - [Module Introduction](note/Week1.md)
   - [Extra: Machine Learning Basics](note/Week1-Extra-MLB.md)
+  - [Extra: Hierarchical Clustering & Expectation-Maximization](note/Week1-Extra-HCEM.md)
