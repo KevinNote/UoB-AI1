@@ -72,15 +72,30 @@ $$
 
 ![](img/Wk1/ex-hcem/hc-ill.png)
 
+1. Place each data point into itw own singleton group
+2. Repeat: iteratively merge the two closest groups
+3. Until: all the data are merged into a single cluster
+
 将每个 Data Point 设定为一个集（group），通过计算每个 Data Point 之间的距离，合并最近的两个。
 
 **输出：**
 
 ![](img/Wk1/ex-hcem/hc-rst.png)
 
-1. Place each data point into itw own singleton group
-2. Repeat: iteratively merge the two closest groups
-3. Until: all the data are merged into a single cluster
+```plain
+Height
+8       +----------------+
+6   +---+---+            |
+4 +-+-+     |            |
+2 |   |     |            |
+  *   *     *            *
+  a1  a2    a3           a4
+
+Distance between:
+d(a1, a2)           = 4
+d(a3, (a1, a2))     = 6
+d((a1, a2, a3), a4) = 8
+```
 
 - **Output:** a dendrogram
 - **Reply on:** a *distance metric* between clusters
