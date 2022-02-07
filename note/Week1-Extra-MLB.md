@@ -9,8 +9,7 @@
 
 **Task T:** classifying handwritten digits from images
 
-**Performance Measure P:** percentage of digits classified 
-correctly
+**Performance Measure P:** percentage of digits classified correctly
 
 **Training Experience E:** dataset of images of handwritten digits
 
@@ -39,7 +38,7 @@ correctly
 - Find hidden structure/insights in data
 
 
-|     ![](img/Wk1/ex-mlb/unspv-l-d.png)     |             ![](img/Wk1/ex-mlb/spv-l-c.png)              |
+|     ![](img/Wk1/ex-mlb/unspv-l-d.png)     |             ![](img/Wk1/ex-mlb/unspv-c.png)              |
 | :---------------------------------------: | :------------------------------------------------------: |
 |       **Dimensionality Reduction**        |                      **Clustering**                      |
 | Reduce data sparsity & computational cost | Objectives within a cluster share a degree of similarity |
@@ -72,7 +71,7 @@ $$
     \end{array}
   \right.\\
   \text{ERR}_{\mathscr{D}_\text{test}} &=
-    \cfrac{1}{n} \sum^n_{i=1}{L(\hat{y}^{[i], y^{[i]}})}
+    \cfrac{1}{n} \sum^n_{i=1}{L(\hat{y}^{[i]}, y^{[i]})}
 \end{align}
 $$
 

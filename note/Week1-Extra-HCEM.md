@@ -31,13 +31,13 @@ $$
 Manhattan:
 
 $$
-d(p, q)=\sum^n_{i=1}{|p_1-q_1|}
+d(p, q)=\sum^n_{i=1}{|p_i-q_i|}
 $$
 
 Chebyshev:
 
 $$
-d(p, q)=\max^n_{i=1}{(|p_1-q_1|)}
+d(p, q)=\max^n_{i=1}{(|p_i-q_i|)}
 $$
 
 Minkowski:
