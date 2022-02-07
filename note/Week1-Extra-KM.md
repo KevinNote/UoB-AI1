@@ -98,11 +98,11 @@ We use 2 3-D vectors $(4, 3, 7)$, $(1, 0, 9)$.
 To calculate its mean, we should calculate mean od their each dimension:
 
 $$
-\begin{align}
+\begin{aligned}
   d_1 &= (4 + 1) \div 2 = 2.5 \\
   d_2 &= (3 + 0) \div 2 = 1.5 \\
   d_3 &= (7 + 9) \div 2 = 8
-\end{align}
+\end{aligned}
 $$
 
 Therefore, the mean vector is $(2.5, 1.5, 8)$.

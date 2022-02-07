@@ -63,7 +63,7 @@ Learns from rewards, maximise rewards
 ### Misclassification Error
 
 $$
-\begin{align}
+\begin{aligned}
   L(\hat{y}, y) &=\left\{
     \begin{array}{**lr**}
     0\qquad \text{if}\ \hat{y}=y\\
@@ -72,7 +72,7 @@ $$
   \right.\\
   \text{ERR}_{\mathscr{D}_\text{test}} &=
     \cfrac{1}{n} \sum^n_{i=1}{L(\hat{y}^{[i]}, y^{[i]})}
-\end{align}
+\end{aligned}
 $$
 
 Function $L$ means loss.
