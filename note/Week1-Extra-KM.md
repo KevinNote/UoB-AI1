@@ -88,7 +88,7 @@ $$
 i.e. in each dimension $j$ of $x_i$ in cluster:
 
 $$
-\cfrac{1}{N_k}\sum_j{x_{i, j}}
+\cfrac{1}{N_k}\sum_i{x_{i, j}}
 $$
 
 **Example:**
