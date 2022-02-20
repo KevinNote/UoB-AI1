@@ -17,3 +17,5 @@
   - [Extra: Machine Learning Basics](note/Week1-Extra-MLB.md)
   - [Extra: Hierarchical Clustering & Expectation-Maximization](note/Week1-Extra-HCEM.md)
   - [Extra: K-means](note/Week1-Extra-KM.md)
+- Week 1
+  - [Mathematical Symbols Explanations](note/Week2-MSE.md)
