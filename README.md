@@ -12,6 +12,7 @@
 
 ## Content
 
+- [Cheat Sheet](CheatSheet.md)
 - Week 1
   - [Module Introduction](note/Week1.md)
   - [Extra: Machine Learning Basics](note/Week1-Extra-MLB.md)
