@@ -22,3 +22,5 @@
   - [Mathematical Symbols Explanations](note/Week2/Week2-MSE.md)
   - [GMM/EM](note/Week2/Week2-GMMEM.md)
   - [DBSCAN](note/Week2/Week2-DBSCAN.md)
+- Week 3
+  - [Introduction to Supervised Learning/监督学习介绍](note/Week3/Week3-ISL.md)
