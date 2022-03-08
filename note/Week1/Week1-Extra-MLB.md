@@ -20,15 +20,15 @@
 - Labelled data
 - Predict outcome/future
 
-| ![](img/Wk1/ex-mlb/spv-l-c.png) | ![](img/Wk1/ex-mlb/spv-l-r.png) |
-| :-----------------------------: | :-----------------------------: |
-|       **Classification**        |         **Regression**          |
-| Predict categorical class label |   Predict continuous outcomes   |
-|   Given Observation ⟶ Classes   |    Given Observation ⟶ Trend    |
+|   ![](img/ex-mlb/spv-l-c.png)   | ![](img/ex-mlb/spv-l-r.png) |
+| :-----------------------------: | :-------------------------: |
+|       **Classification**        |       **Regression**        |
+| Predict categorical class label | Predict continuous outcomes |
+|   Given Observation ⟶ Classes   |  Given Observation ⟶ Trend  |
 
-![](img/Wk1/ex-mlb/spv-l-wf.png)
+![](img/ex-mlb/spv-l-wf.png)
 
-![](img/Wk1/ex-mlb/spv-l-wf-d.png)
+![](img/ex-mlb/spv-l-wf-d.png)
 
 
 
@@ -38,14 +38,14 @@
 - Find hidden structure/insights in data
 
 
-|     ![](img/Wk1/ex-mlb/unspv-l-d.png)     |             ![](img/Wk1/ex-mlb/unspv-c.png)              |
+|       ![](img/ex-mlb/unspv-l-d.png)       |               ![](img/ex-mlb/unspv-c.png)                |
 | :---------------------------------------: | :------------------------------------------------------: |
 |       **Dimensionality Reduction**        |                      **Clustering**                      |
 | Reduce data sparsity & computational cost | Objectives within a cluster share a degree of similarity |
 
 ### Reinforcement learning
 
-![](img/Wk1/ex-mlb/rinf-l.png)
+![](img/ex-mlb/rinf-l.png)
 
 Learns from rewards, maximise rewards
 
@@ -56,7 +56,7 @@ Learns from rewards, maximise rewards
 
 ## Algorithms
 
-![](img/Wk1/ex-mlb/algo.png)
+![](img/ex-mlb/algo.png)
 
 ## Model Evaluation
 

@@ -68,9 +68,9 @@ $$
 - Create a hierarchical decomposition of the set of objects using some criterion （标准）
 - Produce a dendrogram （树枝状图）
 
-![](img/Wk1/ex-hcem/hc-dps.png)
+![](img/ex-hcem/hc-dps.png)
 
-![](img/Wk1/ex-hcem/hc-ill.png)
+![](img/ex-hcem/hc-ill.png)
 
 1. Place each data point into itw own singleton group
 2. Repeat: iteratively merge the two closest groups
@@ -80,7 +80,7 @@ $$
 
 **输出：**
 
-![](img/Wk1/ex-hcem/hc-rst.png)
+![](img/ex-hcem/hc-rst.png)
 
 ```plain
 Height
@@ -102,7 +102,7 @@ d((a1, a2, a3), a4) = 8
 
 #### Measuring distance between clusters/测量聚类间的距离
 
-![](img/Wk1/ex-hcem/hc-dist.png)
+![](img/ex-hcem/hc-dist.png)
 
 #### Strength/优势
 

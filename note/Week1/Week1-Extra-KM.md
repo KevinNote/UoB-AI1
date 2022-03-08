@@ -16,35 +16,35 @@ Assume $K=2$
 
 ### Initialise 2 clusters and assign points to clusters
 
-![](img/Wk1/ex-km/km-1.png)
+![](img/ex-km/km-1.png)
 
 1. Choose 2 random point as cluster.
 2. Calculate distance between each data point and each cluster, then connect the data point to the nearest cluster.
 
 ### Adjust mean
 
-![](img/Wk1/ex-km/km-2.png)
+![](img/ex-km/km-2.png)
 
 Move the points to the centroid points.
 
 ### Reassign points to clusters & adjust mean
 
-![](img/Wk1/ex-km/km-3.png)
+![](img/ex-km/km-3.png)
 
 Consider last step, we moved the points the centroid points, the distances between data points and cluster points are changed. Therefore, we need to reassign points.
 
 ### Repeat this until no cluster changes.
 
-![](img/Wk1/ex-km/km-4.png)
+![](img/ex-km/km-4.png)
 
 After reassigning points, we might need to adjust our mean like previous step. So we just repeat these steps.
 
 ## Different Starting Points
 
-| No  | Initial Clusters                 | Final Clusters                   |
-| --- | -------------------------------- | -------------------------------- |
-| 1   | ![](img/Wk1/ex-km/km-1.png)      | ![](img/Wk1/ex-km/km-4.png)      |
-| 2   | ![](img/Wk1/ex-km/km-diff-1.png) | ![](img/Wk1/ex-km/km-diff-2.png) |
+| No  | Initial Clusters             | Final Clusters               |
+| --- | ---------------------------- | ---------------------------- |
+| 1   | ![](img/ex-km/km-1.png)      | ![](img/ex-km/km-4.png)      |
+| 2   | ![](img/ex-km/km-diff-1.png) | ![](img/ex-km/km-diff-2.png) |
 
 By setting different starting points, the clustering results would change. Therefore, we said:
 
@@ -115,7 +115,7 @@ Until assignments $z_{1:N}$ do not change.
 
 Consider that $K$ should be pre-defined in this algorithm, it will lead to different result directly and will costs different.
 
-![](img/Wk1/ex-km/km-opt.png)
+![](img/ex-km/km-opt.png)
 
 In this case, the best point might be 4.
 

@@ -10,7 +10,7 @@ Probabilistic Model, 概率模型, Aka. Statistical Model, 描述不同随机变
 
 ### Gaussian Distribution/高斯分布
 
-![](img/Wk2/gmmem/ndf.png)
+![](img/gmmem/ndf.png)
 
 
 Probability Density Formula:
@@ -22,7 +22,7 @@ $\sigma$: standard deviation/标准差
 
 ### GMM Description/高斯混合模型描述
 
-![](img/Wk2/gmmem/g.png)
+![](img/gmmem/g.png)
 
 我们可以认为上图为 3 个高斯分布（正态分布）形成的，其可能是三个高斯分布的混合（Mixture）
 
@@ -31,7 +31,7 @@ $\sigma$: standard deviation/标准差
 - 寻找高斯分布的参数以及每个分布之间是如何构建数据的
 - 这就是 GMM
 
-![](img/Wk2/gmmem/gmm-1d.png)
+![](img/gmmem/gmm-1d.png)
 
 ### Generative Model/生成模型
 
@@ -83,7 +83,7 @@ $P(z^{(n)}\mid x)$ called *responsibility*.
 
 **Maximization**: If we know $Z_k$, we can get $\pi_k$, $\mu$ and $\Sigma$
 
-![](img/Wk2/gmmem/em.png)
+![](img/gmmem/em.png)
 
 Step a, b is E-step, others are M-step
 

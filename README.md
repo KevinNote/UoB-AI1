@@ -14,11 +14,11 @@
 
 - [Cheat Sheet](CheatSheet.md)
 - Week 1
-  - [Module Introduction](note/Week1.md)
-  - [Extra: Machine Learning Basics](note/Week1-Extra-MLB.md)
-  - [Extra: Hierarchical Clustering & Expectation-Maximization](note/Week1-Extra-HCEM.md)
-  - [Extra: K-means](note/Week1-Extra-KM.md)
+  - [Module Introduction](note/Week1/Week1-MI.md)
+  - [Extra: Machine Learning Basics](note/Week1/Week1-Extra-MLB.md)
+  - [Extra: Hierarchical Clustering & Expectation-Maximization](note/Week1/Week1-Extra-HCEM.md)
+  - [Extra: K-means](note/Week1/Week1-Extra-KM.md)
 - Week 2
-  - [Mathematical Symbols Explanations](note/Week2-MSE.md)
-  - [GMM/EM](note/Week2-GMMEM.md)
-  - [DBSCAN](note/Week2-DBSCAN.md)
+  - [Mathematical Symbols Explanations](note/Week2/Week2-MSE.md)
+  - [GMM/EM](note/Week2/Week2-GMMEM.md)
+  - [DBSCAN](note/Week2/Week2-DBSCAN.md)

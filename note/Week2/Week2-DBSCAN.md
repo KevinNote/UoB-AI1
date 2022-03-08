@@ -12,7 +12,7 @@
 
 ## Definition
 
-![](img/Wk2/dbscan/type.png)
+![](img/dbscan/type.png)
 
 ## Parameters
 
@@ -21,7 +21,7 @@
 
 ## Point Type
 
-![](img/Wk2/dbscan/pts.png)
+![](img/dbscan/pts.png)
 
 我们定义三种 exclusive 的点的类型：
 
@@ -41,7 +41,7 @@
 
 ##### 非对称性
 
-![](img/Wk2/dbscan/dr.png)
+![](img/dbscan/dr.png)
 
 如图：
 
@@ -50,7 +50,7 @@
 
 ### Density-reachability/密度可及性
 
-![](img/Wk2/dbscan/r.png)
+![](img/dbscan/r.png)
 
 - p 从 q 直接密度可及
 - p2 从 p1 直接密度可及
@@ -61,7 +61,7 @@
 
 ## 构成集合（簇）
 
-![](img/Wk2/dbscan/r.png)
+![](img/dbscan/r.png)
 
 如图：
 
