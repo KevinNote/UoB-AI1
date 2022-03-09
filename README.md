@@ -24,3 +24,6 @@
   - [DBSCAN](note/Week2/Week2-DBSCAN.md)
 - Week 3
   - [Introduction to Supervised Learning/监督学习介绍](note/Week3/Week3-ISL.md)
+  - [Linear Regression - Part 1](note/Week3/Week3-LR1.md)
+  - [Gradient Descent/梯度下降](note/Week3/Week3-GD.md)
+  - [Linear Regression - Part 2](note/Week3/Week3-LR2.md)
