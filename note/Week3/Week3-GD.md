@@ -20,8 +20,6 @@
 $\alpha$: 步长/step size，又被称作学习率/learning rate/学习速率  
 $\nabla g(w)$: 方向
 
-$\alpha$ 
-
 ## 寻找最佳方向/怎么计算 Nabla g(w)
 
 ![](img/GD/S.gif)
