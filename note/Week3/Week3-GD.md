@@ -14,7 +14,7 @@
 - 输入：$\alpha > 0$
 - 初始化 $w$，使用 0 或者随机值
 - 重复直到收敛/convergence：
-  - $w := - \alpha \nabla g(w)$
+  - $w := w - \alpha \nabla g(w)$
 - 返回 $w$
 
 $\alpha$: 步长/step size，又被称作学习率/learning rate/学习速率  
