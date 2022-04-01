@@ -31,3 +31,5 @@
   - [Logistic Regression/逻辑回归](note/Week4/Week4-LR.md)
   - [Neural Network/神经网络](note/Week4/Week4-NN.md)
   - [Overfitting/过拟合](note/Week4/Week4-OF.md)
+- Week 5
+  - [Evaluation & Hyperparameter Tuning](note/Week5/Week5-EHT.md)
