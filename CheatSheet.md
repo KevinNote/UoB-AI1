@@ -37,3 +37,44 @@ $$
 | GMM                     | 否：随机的初始点 | 圆形   | 簇数量               |
 | DBSCAN                  | 否：取决实现     | 不规则 | $\epsilon$, *minPts* |
 
+## Cost Function
+
+### Square loss/L2 loss/Mean Square Error (MSE):
+
+$$
+g(\mathbf{w})=
+\frac{1}{N}
+\sum_{n=1}^N{
+    \left(
+        f(x^{(n)}; \mathbf{w})
+        -
+        y^{(n)}
+    \right)^2
+}
+$$
+
+### Cross-entropy
+
+$$
+\begin{aligned}
+g(\mathbf{w})&=\frac{1}{N}\sum_{n=0}^N Cost(h(\mathbf{x}^{(n)}; \mathbf{w}),y^{(n)})\\
+&=\frac{1}{N}\sum_{n=0}^N \left(
+    y^{(n)} \log(h(\mathbf{x}^{(n)}; \mathbf{w})) +
+    (1-y^{(n)})\log(1-h(\mathbf{x}^{(n)}; \mathbf{w}))
+\right)
+\end{aligned}
+$$
+
+## 常用函数
+
+### Sigmoid 函数
+
+$$
+\sigma(u) = \frac{1}{1+e^{-u}}
+$$
+
+### 梯度下降
+
+$$
+\mathbf{w} = \mathbf{w} - \alpha \nabla g(\mathbf{w})
+$$

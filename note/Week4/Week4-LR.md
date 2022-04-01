@@ -100,7 +100,7 @@ g(\mathbf{w})&=\frac{1}{N}\sum_{n=0}^N Cost(h(\mathbf{x}^{(n)}; \mathbf{w}),y^{(
 \end{aligned}
 $$
 
-对于下式，我们又称为 cross-entropy，即交叉熵。
+对于上式，我们又称为 cross-entropy，即交叉熵。
 
 ## Learning - Gradient Descent
 
