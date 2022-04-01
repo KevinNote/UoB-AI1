@@ -27,3 +27,7 @@
   - [Linear Regression - Part 1](note/Week3/Week3-LR1.md)
   - [Gradient Descent/梯度下降](note/Week3/Week3-GD.md)
   - [Linear Regression - Part 2](note/Week3/Week3-LR2.md)
+- Week 4
+  - [Logistic Regression/逻辑回归](note/Week4/Week4-LR.md)
+  - [Neural Network/神经网络](note/Week4/Week4-NN.md)
+  - [Overfitting/过拟合](note/Week4/Week4-OF.md)
