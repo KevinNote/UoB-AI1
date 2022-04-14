@@ -47,7 +47,7 @@
 
 $P(X, Y)=P(X\mid Y)P(Y)=P(Y\mid X)P(X)$
 
-理解：$P(X,Y)=P(X\cap Y)$，换句话说就是当 X 和 Y 都发生的时候的概率。因此我们可以计算当 Y 时，X的概率 $P(X\mid Y)$ 用其乘上 Y 的概率 $P(Y)$。
+理解：$P(X,Y)=P(X\wedge Y)$，换句话说就是当 X 和 Y 都发生的时候的概率。因此我们可以计算当 Y 时，X的概率 $P(X\mid Y)$ 用其乘上 Y 的概率 $P(Y)$。
 
 ## Mean, Variance & Stand. Deviation
 
