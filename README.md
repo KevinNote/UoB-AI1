@@ -35,3 +35,4 @@
   - [Evaluation & Hyperparameter Tuning](note/Week5/Week5-EHT.md)
 - Week 6
   - [Probability](note/Week6/Week6-P.md)
+  - [Bayers' Theorem/贝叶斯定理](note/Week6/Week6-BT.md)
