@@ -36,3 +36,4 @@
 - Week 6
   - [Probability](note/Week6/Week6-P.md)
   - [Bayers' Theorem/贝叶斯定理](note/Week6/Week6-BT.md)
+  - [Naïve Bayes/朴素贝叶斯](note/Week6/Week6-NB.md)
