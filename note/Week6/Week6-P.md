@@ -26,7 +26,7 @@
 ## 公理/Axioms
 
 - 非负性/Nonnegativity: $\forall A.\ P(A) \geq 0$
-- 相加性/Additivity：$A\cap B=\emptyset\to P(A\cup B)=P(A)+PB$
+- 相加性/Additivity：$A\cap B=\emptyset\to P(A\cup B)=P(A)+P(B)$
 - 正常化/Normalisation：$P(\Omega)=1$
 
 ## Notation
