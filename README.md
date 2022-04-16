@@ -38,3 +38,5 @@
   - [Bayers' Theorem/贝叶斯定理](note/Week6/Week6-BT.md)
   - [Naïve Bayes/朴素贝叶斯](note/Week6/Week6-NB.md)
   - [k-Nearest Neighbours](note/Week6/Week6-kNN.md)
+- Week 7
+  - [Uninformed Search](note/Week7/Week7-US.md)
